@@ -1,0 +1,5 @@
+2021-11-12 14:12:32,135 - DEBUG - La fonction a bien \xe9t\xe9 ex\xe9cut\xe9e
+2021-11-12 14:12:32,138 - INFO - Message d'information g\xe9n\xe9ral
+2021-11-12 14:12:32,138 - WARNING - Attention !
+2021-11-12 14:12:32,139 - ERROR - Une erreur est arriv\xe9e
+2021-11-12 14:12:32,139 - CRITICAL - Erreur critique

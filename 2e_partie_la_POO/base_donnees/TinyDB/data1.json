@@ -1,0 +1,112 @@
+{
+    "_default": {
+        "1": {
+            "name": "Patrick",
+            "score": 0,
+            "roles": [
+                "Junior"
+            ]
+        },
+        "2": {
+            "name": "Julie",
+            "score": 10,
+            "roles": [
+                "Junior"
+            ]
+        },
+        "3": {
+            "name": "Justin",
+            "score": 100,
+            "roles": [
+                "Junior"
+            ]
+        },
+        "4": {
+            "name": "Philippe",
+            "score": 100,
+            "roles": [
+                "Junior"
+            ]
+        },
+        "5": {
+            "name": "Herman",
+            "score": 800,
+            "roles": [
+                "Junior"
+            ]
+        },
+        "6": {
+            "name": "Ingrid",
+            "score": 140,
+            "roles": [
+                "Junior"
+            ]
+        },
+        "7": {
+            "name": "Alliance",
+            "score": 210,
+            "roles": [
+                "Junior"
+            ]
+        },
+        "8": {
+            "name": "Christian",
+            "score": 100,
+            "roles": [
+                "Junior"
+            ]
+        },
+        "9": {
+            "name": "David",
+            "score": 250,
+            "roles": [
+                "Junior"
+            ]
+        },
+        "10": {
+            "name": "Pierre",
+            "Score": 20,
+            "roles": [
+                "Senior"
+            ],
+            "score": 20
+        }
+    },
+    "Users": {
+        "1": {
+            "name": "Patrick",
+            "salary": 25000
+        },
+        "2": {
+            "name": "Herman",
+            "salary": 50000
+        },
+        "3": {
+            "name": "Ingrid",
+            "salary": 48000
+        },
+        "4": {
+            "name": "Patrick",
+            "salary": 25000
+        },
+        "5": {
+            "name": "Herman",
+            "salary": 50000
+        },
+        "6": {
+            "name": "Ingrid",
+            "salary": 48000
+        }
+    },
+    "Roles": {
+        "1": {
+            "name": "Pythonista"
+        },
+        "2": {
+            "name": "Javaista"
+        },
+        "3": {
+            "name": "JavaScripta"
+        }
+    }
+}
